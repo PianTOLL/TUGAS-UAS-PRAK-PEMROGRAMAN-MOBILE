@@ -1,4 +1,4 @@
-# Cara Menjalankan Aplikasi React Native
+# Cara Menjalankan Aplikasi 
 
 ## 1. Clone Repository
 
